@@ -106,3 +106,6 @@ li button:hover {
     object-fit: cover;
 }
 
+canvas {
+    display: block;
+}
