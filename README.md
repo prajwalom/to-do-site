@@ -53,7 +53,3 @@ You can see a live version of the application here:
 This project is open source and available under the [MIT License](LICENSE). (Create a `LICENSE` file if you haven't already, otherwise remove this line).
 
 ---
-
-Feel free to adjust the "Features" section to accurately reflect what your current app can do. If you don't have "Clear All Completed" or "Persistent Storage," simply remove those lines.
-
-This `README` provides a great overview for anyone visiting your repository!
