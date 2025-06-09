@@ -17,7 +17,7 @@ This project serves as a practical exercise and a clear demonstration of fundame
 
 * **HTML5:** For the basic structure and content of the web page.
 * **CSS3:** For styling and making the application visually appealing.
-* **JavaScript (Vanilla JS):** For all interactive functionalities, including DOM manipulation, event handling, and data persistence.
+* **JavaScript:** For all interactive functionalities, including DOM manipulation, event handling, and data persistence.
 
 ## 💻 How to Run Locally
 
@@ -25,7 +25,7 @@ To get a copy of this project up and running on your local machine for developme
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/prajwalom/to-do-site.git](https://github.com/prajwalom/to-do-site.git)
+    git clone [https://github.com/prajwalom/to-do-site.git]
     ```
 2.  **Navigate into the project directory:**
     ```bash
@@ -47,8 +47,7 @@ This project effectively demonstrates the following core web development concept
 ## 🌐 Live Demo
 
 You can see a live version of the application here:
-[https://to-do-site.vercel.app/](https://to-do-site.vercel.app/)
-
+(https://to-do-site-psi.vercel.app/)
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE). (Create a `LICENSE` file if you haven't already, otherwise remove this line).
