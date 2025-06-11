@@ -9,8 +9,8 @@ This project serves as a practical exercise and a clear demonstration of fundame
 * **Add Tasks:** Easily add new tasks to your list.
 * **Mark as Complete:** Toggle tasks as complete or incomplete.
 * **Delete Tasks:** Remove tasks you no longer need.
-* **Clear All Completed:** Quickly remove all completed tasks. (If you have this feature)
-* **Persistent Storage:** Tasks are saved in your browser's local storage, so they persist even after closing the tab. (If you have this feature)
+* **Clear All Completed:** Quickly remove all completed tasks.
+* **Persistent Storage:** Tasks are saved in your browser's local storage, so they persist even after closing the tab.
 * **Responsive Design:** (If applicable) The layout adjusts to different screen sizes.
 
 ## 🚀 Technologies Used
