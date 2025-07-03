@@ -180,3 +180,15 @@ canvas {
     text-shadow: none;
   }
 }
+
+
+
+#todo-input {
+  border: 2px solid #00ffff;
+  box-shadow: 
+    0 0 10px limegreen,
+    0 0 20px limegreen,
+    0 0 30px limegreen,
+    inset 0 0 10px limegreen;
+  border-radius: 10px;
+}
