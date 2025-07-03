@@ -238,4 +238,26 @@ window.onload = function () {
     renderCanvas();
 };
 
-// end
+// Placeholder
+
+
+const PLACEHOLDERS = [
+    'Excerise',
+    'Meditation',
+    'Gym',
+    'Grocery',
+    'Movie to watch'
+]
+
+const inputElement = document.getElementById('todo-input');
+
+let index = 0;
+
+function callPlaceholder () {
+    inputElement.placeholder = PLACEHOLDERS[index];
+    index = (index + 1) % PLACEHOLDERS.length;
+}
+
+setInterval(callPlaceholder, 1000)
+
+callPlaceholder();
