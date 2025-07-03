@@ -184,11 +184,11 @@ canvas {
 
 
 #todo-input {
-  border: 2px solid #00ffff;
+  border: 1px solid #00ffff;
   box-shadow: 
-    0 0 10px limegreen,
-    0 0 20px limegreen,
-    0 0 30px limegreen,
-    inset 0 0 10px limegreen;
+    0 0 5px limegreen,
+    0 0 9px limegreen,
+    0 0 15px limegreen,
+    inset 0 0 1px limegreen;
   border-radius: 10px;
 }
